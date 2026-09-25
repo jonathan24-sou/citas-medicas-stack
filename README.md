@@ -20,7 +20,3 @@ Este proyecto analiza y selecciona el stack de desarrollo para una aplicación m
 - Notificaciones push
 - Almacenamiento local
 - GPS opcional
-
-## 📂 Entrega
-- Reporte técnico en PDF (máx. 5 hojas).
-- Este repositorio contiene el README y documentación del análisis.
